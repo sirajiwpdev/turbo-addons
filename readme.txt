@@ -86,8 +86,12 @@ If you need assistance, you can contact our support team through the [support pa
 We regularly update Turbo Elementor to add new features, improve performance, and ensure compatibility with the latest versions of WordPress and Elementor.
 
 
+* new version coming soon
+
 
 
 == Changelog ==
 = 1.0 =
 * Initial Release
+
+
