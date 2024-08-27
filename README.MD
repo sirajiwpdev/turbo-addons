@@ -76,7 +76,7 @@ Turbo Addons includes the following widgets:
 ## Changelog
 
 ### 1.0.0
-* Initial release with 40 advanced widgets for Elementor.
+* Initial release with 16 advanced widgets for Elementor.
 
 ## License
 
