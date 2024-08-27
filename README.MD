@@ -25,13 +25,13 @@ Turbo Addons includes the following widgets:
 7. **Animated Text Effects** - Multiple text animation styles and dynamic content integration.
 8. **Advanced Tabs & Accordions** - Nested tabs and accordions with dynamic content loading.
 9. **Banner** -Design Page Banner.
-10.**Contact Info** - Website Contact info.
-11.**Heading** - Design Section Heading paragram heading.
-12.**Logo Carousel**-Logo Carousel.
-13.**Logo List** - Lis your logs.
-14.**Popular Post** - Preview Card.
-15.**Team** -Design Team Section.
-16.**Testimonial** Design Testimonial.
+10. **Contact Info** - Website Contact info.
+11. **Heading** - Design Section Heading paragram heading.
+12. **Logo Carousel**-Logo Carousel.
+13. **Logo List** - Lis your logs.
+14. **Popular Post** - Preview Card.
+15. **Team** -Design Team Section.
+16. **Testimonial** Design Testimonial.
 
 
 ## Installation
