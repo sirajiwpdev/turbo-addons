@@ -81,6 +81,3 @@ Turbo Addons includes the following widgets:
 ## License
 
 Turbo Addons is licensed under the GNU General Public License v2 or later. See the [LICENSE](https://www.gnu.org/licenses/gpl-2.0.html) for more details.
-
-** new version comin soon
-
